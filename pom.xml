@@ -29,6 +29,12 @@
         </developer>
     </developers>
 
+    <scm>
+        <connection>scm:git:git@github.com:cruiztorresj/Robust-Java-Starter-Archetype.git</connection>
+        <developerConnection>scm:git:git@github.com:cruiztorresj/Robust-Java-Starter-Archetype.git</developerConnection>
+        <url>https://github.com/cruiztorresj/Robust-Java-Starter-Archetype/tree/main</url>
+    </scm>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
